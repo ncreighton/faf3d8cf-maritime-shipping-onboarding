@@ -1,2 +1,28 @@
-# faf3d8cf-maritime-shipping-onboarding
-Stop losing hours to fragmented training docs and compliance gaps—this Notion template turns your maritime onboarding into a streamlined, audit-ready system that cuts crew ramp-up time by 40%.  Built for shipping companies tired of juggling PDFs, emails, and spreadsheets, this template centralizes every step of crew onboarding, STCW compliance, and
+# Maritime & Shipping Onboarding and Training System Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNicN57r18Ise00cDWd0k0p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNicN57r18Ise00cDWd0k0p)
+
